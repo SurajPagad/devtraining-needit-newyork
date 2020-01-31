@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_priority" table="var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 13:17:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4af77073db26001009f47b8239961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 13:17:11</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_priority</element>
+            <name>var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 13:17:11</sys_created_on>
+            <sys_id>82f77073db26001009f47b8239961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_priority</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e_u_priority</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 13:17:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>34c2a8c9db38bb809df22f17d4961933</instance_id>
+        <instance_name>dev80417</instance_name>
+        <name>sys_choice_var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e_u_priority</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_priority" table="var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_priority</element><hint/><inactive>false</inactive><label>-- New choice --</label><language>en</language><name>var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-31 13:17:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4af77073db26001009f47b8239961926</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-31 13:17:11</sys_updated_on><value>-- New choice --</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_priority</element><name>var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-31 13:17:11</sys_created_on><sys_id>82f77073db26001009f47b8239961927</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_priority</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e_u_priority</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-31 13:17:11</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-239818013</payload_hash>
+        <record_name>.Priority</record_name>
+        <reverted_from/>
+        <source>8fa811c3db22001009f47b823996198a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 13:17:11</sys_created_on>
+        <sys_id>c6f77c73db26001009f47b8239961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ffbbf8a980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 13:17:11</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>42f77c73772600105d4533849c308c73</update_guid>
+        <update_guid_history>42f77c73772600105d4533849c308c73:-239818013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 13:17:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>82f77073db26001009f47b8239961927</sys_id>
+        <sys_metadata>82f77073db26001009f47b8239961927</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e_u_priority</sys_update_name>
+        <sys_update_version display_value="sys_choice_var__m_sys_decision_input_79d57cffdbe2001009f47b823996193e_u_priority">c6f77c73db26001009f47b8239961973</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 13:17:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
